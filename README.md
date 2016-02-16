@@ -1,2 +1,2 @@
-# has-moved-to-thisdata
-The revertio organization repositories can now be found at github.com/thisdata
+# revertio is now ThisData
+The revertio organization repositories can now be found at https://github.com/thisdata
